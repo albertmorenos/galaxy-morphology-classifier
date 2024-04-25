@@ -12,7 +12,7 @@ The data can be filtered through two parameters (0 - 1): DATA_FRACTION which con
 - **Best Model Selection**: Based on accuracy and cross-validation results.
 
 ## Performance
-The performance stats are in the "Stats.xlsx" file. The best models are achieved with a minimum agreement of 0.5 to 0.8 with an accuracy around 0.85, as this interval has sufficient data that is mostly well-labeled. The accuracies for E class and SB class galaxies are > 0.9 but well < 0.76 for class S galaxies. This issue remains unresolved and affects the overall model accuracy.
+The performance stats are in the "Stats.xlsx" file. The best models are achieved with a minimum agreement of 0.5 to 0.8 with an accuracy around 0.85, as this interval has sufficient data that is mostly well-labeled. The accuracies for E class and SB class galaxies are over 0.9 but well under 0.76 for class S galaxies. This issue remains unresolved and affects the overall model accuracy.
 
 ## Use
 The model has been trained in a 12 GB GPU RTX 3060 with GeForce Game Ready Driver version 537.13, Tensorflow 4.10.1 and Python 3.7.16.
