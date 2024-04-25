@@ -24,5 +24,5 @@ This project is under the MIT License. This means that you can use, copy, modify
 Dataset provided by Robert Mifsud, available in https://www.kaggle.com/datasets/robertmifsud/resized-reduced-gz2-images, under CC BY 4.0 license.
 
 - **Source**: Resized and Reduced Galaxy Zoo 2 Images
-- **Licencia**: CC BY 4.0
+- **License**: CC BY 4.0
 - **Modifications**: None.
