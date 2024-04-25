@@ -16,3 +16,6 @@ The performance stats are in the "Stats.xlsx" file. The best models are achieved
 
 ## Use
 The model has been trained in a 12 GB GPU RTX 3060 with GeForce Game Ready Driver version 537.13, Tensorflow 4.10.1 and Python 3.7.16.
+
+## License
+This project is under the MIT License. This means that you can use, copy, modify, and distribute this project. However, you must provide attribution back to the original author of the project.
